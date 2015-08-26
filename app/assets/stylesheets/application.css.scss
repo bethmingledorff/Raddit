@@ -16,6 +16,9 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+ html, body {
+  font-family: 'Varela Round', sans-serif;
+}
 
 #logo {
 	font-size: 26px;
